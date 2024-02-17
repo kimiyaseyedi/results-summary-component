@@ -1,0 +1,9 @@
+@import url(./partials/home-md.css);
+@import url(./partials/home-lg.css);
+@import url(./partials/home-sm.css);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=main.css.map */
